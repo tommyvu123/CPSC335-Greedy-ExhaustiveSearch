@@ -1,6 +1,5 @@
-#CPSC 335 - Algorithm Engineering
-# 335 - Project-2
-Container Ship Weight-maximization using Greedy/Exhaustive search algorithm
+# CPSC 335 - Algorithm Engineering
+# Project-2 - Container Ship Weight-maximization using Greedy/Exhaustive search algorithm
 
 Tommy Vu tommyuv23@csu.fullerton.edu
 
